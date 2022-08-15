@@ -50,6 +50,9 @@ Add your own domain name and have it point to the running services (try adding a
 ### Elastic Beanstalk Endpoint
 http://nganpv-project02-image-filter-dev.us-east-1.elasticbeanstalk.com
 
+### Example URL
+http://nganpv-project02-image-filter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://9mobi.vn/cf/images/2015/03/nkk/hinh-dep-1.jpg
+
 ### Git repository
 https://github.com/nganxdc/NganPV-Udacity-Project02-image-filter
 
