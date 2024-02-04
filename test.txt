@@ -1,1 +1,2 @@
 hocj leenmhj checkout -b new-branch1
+thay doi tu new1
