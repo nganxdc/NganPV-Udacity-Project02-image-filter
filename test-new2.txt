@@ -1,1 +1,2 @@
 test new2
+reset commit id1
